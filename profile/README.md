@@ -14,4 +14,4 @@ Issues and pull requests are welcome. Start with the project's `CONTRIBUTING.md`
 
 ### Lixali Studio
 
-A software studio building payment, messaging and AI tooling. [lixalistudio.tech](https://lixalistudio.tech) · hello@lixalistudio.tech
+A software studio building payment, messaging and AI tooling. [lixalistudio.tech](https://lixalistudio.tech/contact)
